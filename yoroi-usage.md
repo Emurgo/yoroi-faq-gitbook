@@ -21,7 +21,8 @@ Any hardware that supports Google Chrome and Extensions. This means that you can
 Yoroi can be found and installed through the Chrome Store.
 
 ## Can I run Yoroi on 2 different computers?
-Yes, as long as you don't have both instances open at the same time. (Keeping both open could cause desyncing issues)
+
+Yes, as long as you don't have both instances open at the same time. \(Keeping both open could cause desyncing issues\)
 
 ## How do I log out of the Yoroi wallet?
 
@@ -29,14 +30,17 @@ There is no function to log out of the Yoroi Chrome extension. You can simply cl
 
 ## How do I uninstall Yoroi?
 
-Simply remove the plugin from Chrome in the Extensions section. 
+Simply remove the plugin from Chrome in the Extensions section.
 
 Warning: This will remove the private key and all storage associated with the wallet. We highly recommend that if you want to access the wallet in the future, you have a backup of the mnemonics words.
 
 ## Is staking available in Yoroi?
 
-Yes, there is a delegation center, called Delegation List, where you can see all the available stakepools (ranked) in the ecosystem.
+Yes, there is a delegation center, called Delegation List, where you can see all the available stakepools \(ranked\) in the ecosystem.
 
 Also Yoroi has a delegation center where you can visualize your rewards history.
 
+![Delegation Center in Yoroi: Visualize your historical rewards and current delegation state.](.gitbook/assets/screen-shot-2020-12-24-at-2.29.22-pm.png)
+
+![Delegation List in Yoroi: Cardano pools list ranked by score. Two clicks delegation.](.gitbook/assets/screen-shot-2020-12-24-at-2.29.35-pm.png)
 
