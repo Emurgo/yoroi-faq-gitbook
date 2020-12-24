@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [General](README.md)
+* [Yoroi Usage](yoroi-usage.md)
 
