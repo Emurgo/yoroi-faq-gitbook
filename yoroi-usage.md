@@ -1,4 +1,4 @@
-# Yoroi Usage
+# Uso de Yoroi
 
 ## How do I send and receive ADA using Yoroi?
 
