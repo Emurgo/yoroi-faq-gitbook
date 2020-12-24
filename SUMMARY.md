@@ -10,8 +10,5 @@
 
 * [Introduction](faq/faq-index.md)
 * [How to Use Yoroi](faq/yoroi-usage.md)
-
----
-
-* [Ledger \(Hardware Device\)](ledger-hardware-device.md)
+* [Ledger \(Hardware Device\)](faq/ledger-hardware-device.md)
 
