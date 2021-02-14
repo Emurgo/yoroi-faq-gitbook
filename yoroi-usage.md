@@ -1,7 +1,5 @@
 # Yoroi Usage
 
-[test ](https://yoroiwallet.com)
-
 ## How do I send and receive ADA using Yoroi?	
 
 In order to receive Ada using Yoroi you first need to create your wallet in Yoroi. Be careful to store your 15-word recovery phrase for your wallet which you will get during the wallet creation process. This is very important, if you lose this you will likely lose your Ada.		
