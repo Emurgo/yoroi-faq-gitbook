@@ -34,10 +34,12 @@ You can find information about this in the documentation [here](https://cardanod
 
 ## Is staking available in Yoroi?
 
-Yes, there is a delegation center, called Delegation List, where you can see all the available stakepools \(ranked\) in the ecosystem.		
+Yes, there is a delegation center, called Delegation List, where you can see all the available stakepools \(ranked\) in the ecosystem.	
+
+![Delegation List in Yoroi: Cardano pools list ranked by score. Two clicks delegation.](.gitbook/assets/screen-shot-2020-12-24-at-2.29.35-pm.png)
 
 Also Yoroi has a delegation center where you can visualize your rewards history.		
 
 ![Delegation Center in Yoroi: Visualize your historical rewards and current delegation state.](.gitbook/assets/screen-shot-2020-12-24-at-2.29.22-pm.png)		
 
-![Delegation List in Yoroi: Cardano pools list ranked by score. Two clicks delegation.](.gitbook/assets/screen-shot-2020-12-24-at-2.29.35-pm.png)
+
