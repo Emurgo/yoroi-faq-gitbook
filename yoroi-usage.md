@@ -6,35 +6,33 @@ In order to receive Ada using Yoroi you first need to create your wallet in Yoro
 
 To receive Ada go to the Receive tab in your wallet and generate an address. Use a button in the user interface to copy it to the clipboard and then share it with the person who is going to send you Ada.		
 
-To send Ada, obtain a Yoroi address from the person you are going to send Ada to and use the Send tab in your wallet to send the desired amount of Ada to that address.		
+To send Ada, obtain a Yoroi address from the person you are going to send Ada to and use the Send tab in your wallet to send the desired amount of Ada to that address.
 
-## Once I have downloaded Yoroi, how long before I can send and receive ADA?		
+## Once I have downloaded Yoroi, how long before I can send and receive ADA?
 
-Once you have downloaded Yoroi, you will need to create and backup your wallet which takes a couple of minutes. As soon as your wallet is created and your 15-word Yoroi Recovery Phrase is safely backed up, you will be able to send and receive Ada instantly since there is no need to wait for blockchain synchronization.		
+Once you have downloaded Yoroi, you will need to create and backup your wallet which takes a couple of minutes. As soon as your wallet is created and your 15-word Yoroi Recovery Phrase is safely backed up, you will be able to send and receive Ada instantly since there is no need to wait for blockchain synchronization.
 
-## What hardware supports Yoroi?		
+## Can I send ADA from a Daedalus wallet to my Yoroi wallet?
+Yes, but if this is your wallet, consider restoring your account on Yoroi instead as this will ensure your total balance is transferred.
 
-Any hardware that supports Google Chrome and Extensions. This means that you can use Yoroi in Linux, Mac OS, Windows, among others, but not in iOS or Android.		
+## Can I send Ada from an exchange to my Yoroi wallet?
+Yes. If for any reason you are not able to do it, please file a ticket with the exchange (it’s not our fault!). We use a new address format and some exchanges may have some validations that does not support this new address format (your funds will be safe as the transaction would just be blocked by the exchange).
 
-## How do I download Yoroi?		
+## How much bandwidth do I need to download and use Yoroi?
+The Yoroi installation package is very small so it does not require much bandwidth. Also, since Yoroi is a light wallet and does not require a the full copy of the blockchain on your machine it consumes very little bandwidth for the operation.
 
-Yoroi can be found and installed through the Chrome Store.		
+## How I can I recover my Daedalus wallet in Yoroi using my recovery phase ?
 
-## Can I run Yoroi on 2 different computers?		
+You should be able to restore a Daedalus wallet in Yoroi by going to `Add Wallet` then `Restore`, `Cardano` and then select the option for a recovery using 24 words.
 
-Yes, as long as you don't have both instances open at the same time. \(Keeping both open could cause desyncing issues\)		
+## What should I do if I want to recover my Daedalus wallet in Yoroi, but when I get to the entry screen the textbox won't allow me to enter spaces?
 
-## How do I log out of the Yoroi wallet?		
+You do not need spaces. You can press tab if you have typed the entire word (or select via mouse click from suggestions below text - filtered as you type).
 
-There is no function to log out of the Yoroi Chrome extension. You can simply close the tab to exit. Note that your spending password is required in order to send ada from Yoroi, so nobody else can transfer your ada without your password.		
+## What do the green "HIGH" and red "LOW" labels mean next to "ADA received" under "Transactions"?
+You can find information about this in the documentation [here](https://cardanodocs.com/cardano/transaction-assurance/).
 
-## How do I uninstall Yoroi?		
-
-Simply remove the plugin from Chrome in the Extensions section.		
-
-Warning: This will remove the private key and all storage associated with the wallet. We highly recommend that if you want to access the wallet in the future, you have a backup of the mnemonics words.		
-
-## Is staking available in Yoroi?		
+## Is staking available in Yoroi?
 
 Yes, there is a delegation center, called Delegation List, where you can see all the available stakepools \(ranked\) in the ecosystem.		
 
