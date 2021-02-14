@@ -16,20 +16,23 @@ Any hardware that supports Google Chrome and Extensions. This means that you can
 
 ## How do I download Yoroi?
 
-Yoroi can be found and installed through the Chrome Store, Firefox Store, AppStore and Google Play. Links here https://yoroi-wallet.com/#/
+Yoroi can be found and installed through the Chrome Store, Firefox Store, AppStore and Google Play. Links here [https://yoroi-wallet.com/\#/](https://yoroi-wallet.com/#/)
 
 ## Can I run Yoroi on 2 different computers?
 
-Yes, as long as you don't have both instances open at the same time (keeping both open could cause desyncing issues).
+Yes, as long as you don't have both instances open at the same time \(keeping both open could cause desyncing issues\).
 
 ## How do I log out of the Yoroi wallet?
 
 There is no function to log out of the Yoroi Chrome extension. You can simply close the tab to exit. Note that your spending password is required in order to send ada from Yoroi, so nobody else can transfer your ada without your password.
 
 ## How do I uninstall Yoroi?
-Simply remove the plugin from Chrome in the Extensions section. 
+
+Simply remove the plugin from Chrome in the Extensions section.
 
 Warning: This will remove the private key and all storage associated with the wallet. We highly recommend that if you want to access the wallet in the future, you have a backup of the mnemonics words.
 
 ## Will staking be available in Yoroi?
-Yoroi supports staking through delegation in all of its versions (desktop and mobile).
+
+Yoroi supports staking through delegation in all of its versions \(desktop and mobile\).
+
